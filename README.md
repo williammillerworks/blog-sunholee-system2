@@ -2,6 +2,8 @@
 
 [bolt prototype](https://import-williammiller-odl6.bolt.host/)
 
+11.06.25: skeleton loader count matching actual entries.
+
 11.03.25: redesign the post
 
 10.17.25: Published blog link on Instagram.
