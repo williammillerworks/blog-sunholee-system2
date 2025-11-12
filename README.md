@@ -2,6 +2,8 @@
 
 [bolt prototype](https://import-williammiller-odl6.bolt.host/)
 
+11.12.25: Improve mobile swipe gestures and keyboard navigation
+
 11.06.25: skeleton loader count matching actual entries.
 
 11.03.25: redesign the post
