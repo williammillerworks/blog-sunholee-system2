@@ -2,6 +2,8 @@
 
 [bolt prototype](https://import-williammiller-odl6.bolt.host/)
 
+11.13.25: Fix post detail footer to show time instead of date
+
 11.12.25: Improve mobile swipe gestures and keyboard navigation
 
 11.06.25: skeleton loader count matching actual entries.
