@@ -2,6 +2,8 @@
 
 [bolt prototype](https://import-williammiller-odl6.bolt.host/)
 
+11.14.25: Reduce max-width from 600px to 480px
+
 11.13.25: Fix post detail footer to show time instead of date
 
 11.12.25: Improve mobile swipe gestures and keyboard navigation
